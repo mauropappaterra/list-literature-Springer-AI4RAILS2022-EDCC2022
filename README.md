@@ -1,15 +1,21 @@
 [PAPER]: https://link.springer.com/chapter/10.1007/978-3-031-16245-9_5
+[LINKTREE]: https://linktr.ee/pappaterra
 # Literature list for "A literature review for the application of Artificial Intelligence in the maintenance of railway operations with an emphasis on data" (Springer)
-The following tabulated list presents all paper consulted for the publication "A literature review for the application of Artificial Intelligence in the maintenance of railway operations with an emphasis on data".
+This repository contains a tabulated list with all papers consulted for the publication "A literature review for the application of Artificial Intelligence in the maintenance of railway operations with an emphasis on data" which was presented at the <i>18th European Dependable Computing Conference</i> (EDCC2022) in Zaragoza, Spain; and published by Springer in 2022. 
 
-[Click here][PAPER] to view the publication.
+- Read this publication. Click on [this link][PAPER] to read the publication on the Springer website.
+- You can find a CSV and XLSX file with the list of papers in this repository.
+- Citations. Use the following text if you want to cite this publication:  
+> [#] Mauro José Pappaterra "A Literature Review for the Application of Artificial Intelligence in the Maintenance of Railway Operations with an Emphasis on Data", Dependable Computing – EDCC 2022 Workshops. EDCC 2022, Zaragoza, Spain. Communications in Computer and Information Science, vol 1656. Springer, Cham, 2022. doi:10.1007/978-3-031-16245-9_5
+- You can follow me on all of [my academic profiles][LINKTREE] for future updates and more work related to this publication.
 
-You can find a CSV and XLSX file with the list of papers in this repository.
 
 ## Abstract
 This literature review aims for a holistic overview of Artificial Intelligence (AI) applications in the railway industry. Our research covers specifically the subdomain of railway maintenance. We have analyzed the state of the art of AI applied to the railway industry by conducting an extensive literature review, summarizing different tasks and problems belonging to railway maintenance and common AI-based models implemented for their solution. Within this study we present an integrated overview with special emphasis on the data used to create these models.
 
 The results of our research show that the possible applications of AI for the maintenance of railway operations are vast and there are many problems and tasks that can greatly benefit from it. Moreover, very different types of data are implemented to feed AI models: including not only numerical, text and image data but a wide variety of data types ranging from sound, GPS coordinates, track geometry, speed and acceleration data, data from rolling stock vibrations, knowledge from experts, historical data from logs and reports, temperature data and more. Data can also be harvested using different technologies such as IoT devices, wireless networks, smart sensors, computer-based simulations, and digital twins. These and more insights are discussed in detail within this paper.
+
+[Read publication on Springer Link][PAPER]
 
 ## List of papers
 
