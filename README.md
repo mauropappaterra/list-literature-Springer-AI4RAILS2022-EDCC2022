@@ -19,7 +19,7 @@ The results of our research show that the possible applications of AI for the ma
 
 ## List of papers
 
-### References
+### Railway Maintenance Applications Reference
 A = Railway Tracks Maintenance  
 B = Rolling Stock Maintenance  
 C = Infrastructure Maintenance  
